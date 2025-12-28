@@ -144,7 +144,8 @@ function App() {
       <header className="header">
         <div className="logo">
           <FaXTwitter />
-          <span>New Year Countdown</span>
+          2026
+          <span>Countdown</span>
         </div>
         <div className="nav-buttons">
           <div className="calendar-wrapper">
@@ -175,7 +176,8 @@ function App() {
             <FaCoffee /> Buy me a coffee
           </button>
           <button className="btn">
-            <FaStar /> Star on GitHub
+            <a href="https://github.com/its-m4npreet/weekend_small_projects">            <FaStar /> Star on GitHub
+            </a>
           </button>
         </div>
       </header>
